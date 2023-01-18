@@ -1,0 +1,15 @@
+npx expo start
+
+npm i nativewind
+npm i tailwindcss --save-dev
+npx tailwindcss init
+
+fragment = wrapper
+<> </>
+
+tem q informar para o typescript q esta usando nativewind via tipagem no arquivo @types/app.d.ts
+
+https://docs.expo.dev/versions/latest/sdk/svg/
+https://github.com/kristerkari/react-native-svg-transformer
+
+
